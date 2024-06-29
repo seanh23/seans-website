@@ -6,8 +6,6 @@ const learningItems = [
 ];
 
 const books = [
-    "Clean Code by Robert C. Martin",
-    "The Pragmatic Programmer by Andrew Hunt and David Thomas"
 ];
 
 // Function to add items to a list
